@@ -1,8 +1,8 @@
 ---
 layout: page
-menu: false
-date: '2020-02-27 01:53:59'
-title: About
+menu: true
+date: '2025-09-18 01:53:59'
+title: yo soy
 description: Some description.
 permalink: /about/
 ---
@@ -11,9 +11,5 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Me llamo jorge Delgadillo, tengo 18 años, vivo en cancun Q. Roo. estudio actualmente en la universidad del caribe en la carrera de negocios internacioanles. formo parte del selectivo de futbol de la escuela. 
+vivo con mi papá y mi hermana y mi perrita Kaala, naci aqui en cancun un 13 de junio del 2007 y levo 16 año viviendo en cancun porque me fui 2 año a CDMX.
