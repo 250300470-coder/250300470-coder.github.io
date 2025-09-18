@@ -1,6 +1,6 @@
 ---
 layout: page
-menu: 
+menu: JORGE
 date: '2025-09-18 07:33:59'
 title: yo soy
 description: MI VIDA.
