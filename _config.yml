@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Jorge
+title: Jorge | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+  jorge.
 tags:
   - blog
   - template
@@ -19,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 250300470@ucaribe.edu.mx
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,12 +29,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: 250300470-coder
+facebook_username: jorgedelgadillo
+twitter_username: mendezdelz
+instagram_username: jorge_delz
+linkedin_username: delzMen
+medium_username: jorgeuillermo
 
 
 # Posts Settings
